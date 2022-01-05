@@ -1,4 +1,4 @@
-# Finnish-Persian-Kindle-Dictionary
+# Finnish-Persian Kindle Dictionary
 Free Finnish-Persian Kindle Dictionary. This is a sub-project of: [English-Persian Kindle Custom Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
 
 # دیکشنری فنلاندی به فارسی کیندل
