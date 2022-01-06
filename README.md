@@ -20,7 +20,7 @@ Free Finnish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 ## نکات مهم:
 ■ برای ساخت این لغت نامه، از دیکشنری MB Dictionary Finnish to Persian استفاده شده است که رایگان بوده و بر روی اینترنت قابل دریافت میباشد.
 
-■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. این دیکشنری به عنوان بخشی از پروژه لغت نامه های فارسی کیندل ساخته شده است و من شخصا هیچ آشنایی با زبان فنلاندی ندارم.
+■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. این دیکشنری به عنوان بخشی از پروژه لغت نامه های فارسی کیندل ساخته شده است و من شخصا آشنایی با زبان فنلاندی ندارم.
 در صورت وجود مشکل یا علاقه شما در جهت بهبود لغت نامه، فایل منبع لغت نامه قرار داده است. همپنین با مراجعه به پروژه اصلی، میتوانید راهنمایی های بیشتر نیز پیدا کنید.
  
 ■ این لغت نامه از نوشتار راست-به-چپ برای متن فارسی پشتیبانی میکند.
@@ -33,3 +33,5 @@ Free Finnish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 [Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل](https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary)
 
 [Spanish-Persian Kindle Dictionary دیکشنری اسپانیایی به فارسی کیندل](https://github.com/hossein1376/Spanish-Persian-Kindle-Dictionary)
+
+[French-Persian Kindle Dictionary دیکشنری فرانسوی به فارسی کیندل](https://github.com/hossein1376/French-Persian-Kindle-Dictionary)
